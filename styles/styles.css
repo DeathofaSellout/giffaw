@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    border: 2px solid white;
+    margin: 5px;
+    height: 120px;
+}
